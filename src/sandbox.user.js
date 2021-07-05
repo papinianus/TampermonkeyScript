@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         sandbox
 // @namespace    https://github.com/papinianus/TampermonkeyScript
-// @version      0.1
+// @version      0.11
 // @description  sandbox for testing
 // @author       papinianus
 // @match        http://*/*
